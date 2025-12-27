@@ -7,4 +7,8 @@
     <RootNamespace>Edu_WebApplication1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="Views\Home\%40{" />
+  </ItemGroup>
+
 </Project>
